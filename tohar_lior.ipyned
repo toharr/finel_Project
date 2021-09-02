@@ -1,5 +1,1 @@
 [! [Binder] (https://mybinder.org/badge_logo.svg)] (https://mybinder.org/v2/gh/toharr/finel_Project/new/main/ רֹאשׁ)
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
